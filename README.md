@@ -589,7 +589,7 @@ Now while it is true that once you work on a team/for a company, there is very l
 
 ___
 
-Wow, that is a **_LOT_** to learn! 2020 is looking to be an amazing time to learn about web development, and far more than that too. 
+Wow, that is a **_LOT_** to learn! 2021 is looking to be an amazing time to learn about web development, and far more than that too. 
 
 But wait, there's **MORE!!**
 
